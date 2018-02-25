@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Meetup-630-orange.svg?style=flat-square">
 <img src="https://img.shields.io/badge/Whatsapp-250-orange.svg?style=flat-square">
 <img src="https://img.shields.io/badge/Social Media-1200-orange.svg?style=flat-square">
-<img src="https://img.shields.io/badge/Organizing Team-8-orange.svg?style=flat-square">
+<img src="https://img.shields.io/badge/Organizadoras-8-orange.svg?style=flat-square">
 </p>
 
 **Hola Mujer :wave:**
@@ -44,5 +44,14 @@ Queremos escucharte! Cuentanos un poco sobre el tema que nos quieres compartir a
 - [Facebook](https://www.facebook.com/pionerasdev/)
 - [Instagram](https://www.instagram.com/pionerasdev/)
 - [Medium](https://medium.com/@pionerasdev)
+
+# Equipo organizador :two_hearts:
+
+| [<img src="https://avatars0.githubusercontent.com/u/3924809?s=460&v=4" width="100px"><br><sub>Marian Villa</sub>](https://github.com/marianvilla) | [<img src="https://avatars3.githubusercontent.com/u/16061815?s=400&v=4" width="100px"><br><sub>Camila Gomez</sub>](https://github.com/Camigomez35) | [<img src="https://avatars2.githubusercontent.com/u/10585946?s=460&v=4" width="100px"><br><sub>Manuela Castrillon</sub>](https://github.com/ManuCastrillonM) | [<img src="https://avatars3.githubusercontent.com/u/2703269?s=460&v=4" width="100px"><br><sub>Ana Sosa</sub>](https://github.com/anamariasosam)
+|:---:|:---:|:---:|:---:|
+| [<img src="https://avatars0.githubusercontent.com/u/21693619?s=460&v=4" width="100px"><br><sub><b>Juliana Gomez</b></sub>](https://github.com/gomezjuliana) | [<img src="https://avatars0.githubusercontent.com/u/13105188?s=460&v=4" width="100px"><br><sub><b>Liz Parody</b></sub>](https://github.com/lizparody) | [<img src="https://avatars3.githubusercontent.com/u/26748227?s=460&v=4" width="100px"><br><sub><b>Laura Ciro<b/></sub>](https://github.com/ltciro) | [<img src="https://avatars2.githubusercontent.com/u/11249129?s=460&v=4" width="100px"><br><sub><b>Catalina Meneses<b/></sub>](https://github.com/kathcode) |
+
+# Código de conducta :scroll:
+Adoptamos el [código de conducta de Colombia Dev](https://github.com/colombia-dev/codigo-de-conducta), si sientes que este está siendo vulnerado o quieres expresarnos alguna situación con la que no te sientas comoda, no dudes en contactarnos, nuestro correo es `pionerasdev@gmail.com`
 
 # Sponsors :open_hands:
