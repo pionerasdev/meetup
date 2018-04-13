@@ -28,14 +28,15 @@ Nos reunimos cada dos semanas, realizamos la programación a través de nuestra 
 ¡No te preocupes, puedes sumarte igual!.
 La condición: llevar a una mujer contigo que también realice las actividades y dile a ella que también se registre en el meetup!
 
+
 # PioTalks 2018 :clap:
 | Fecha | Titulo | Speaker |
 |-------|--------|---------|
 | 27/01 | [Primera reunión del año](https://www.meetup.com/es/PionerasDevelopers/events/246816552/) | Core Team PionerasDev |
 | 24/02 | [RxJS: Procesos asíncronos con Rick and Morty](https://www.meetup.com/es/PionerasDevelopers/events/247805086/) | [@jdjuan](https://twitter.com/jdjuan) |
-| 24/03 | [Juguemos con sql básico y consultas anidadas & React: RGB Generator](https://www.meetup.com/PionerasDevelopers/events/248947656/) | Lorena Correa / [Luisa Vaca](https://twitter.com/otra_gris) |
+| 24/03 | [Juguemos con sql básico y consultas anidadas & React: RGB Generator](https://www.meetup.com/PionerasDevelopers/events/248947656/) | [Lorena Correa](https://twitter.com/lavadani) / [Luisa Vaca](https://twitter.com/otra_gris) |
 | 07/04 | [Kubernetes - Certificación con Platzi](https://www.meetup.com/PionerasDevelopers/events/249156604/) | [Catherine Cruz](https://twitter.com/UserTwoGG) / [Diana](https://twitter.com/tifis) |
-| 21/04 | Estimación de tareas y proyectos / Como escribir un CFP / App React | [María Paz](https://twitter.com/Pazupersonica) / [Juliana Gómez](https://twitter.com/gmzjuliana) / [Liz Parody](https://twitter.com/lizparody23)|
+| 21/04 | [Estimación de tareas y proyectos / Como escribir un CFP / App React](https://www.meetup.com/PionerasDevelopers/events/249648577/) | [María Paz](https://twitter.com/Pazupersonica) / [Juliana Gómez](https://twitter.com/gmzjuliana) / [Liz Parody](https://twitter.com/lizparody23)|
 
 
 
